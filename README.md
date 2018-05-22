@@ -8,4 +8,4 @@ The dataset for this application can be found in the project directory.
 * Pandas
 
 ## Usage
-Run 'jupyter notebook' in terminal. 
+Run `jupyter notebook` in terminal. 
